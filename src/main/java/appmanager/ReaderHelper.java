@@ -18,7 +18,7 @@ public class ReaderHelper {
 
     public List<DataModel> readFromCSV() {
         List<DataModel> values = new ArrayList<>();
-        Path pathToFile = Paths.get("/Users/max/sandbox/Exercise/src/main/resources/values.csv");
+        Path pathToFile = Paths.get("src/main/resources/values.csv");
 
         try (BufferedReader fileReader = Files.newBufferedReader(pathToFile, StandardCharsets.US_ASCII)) {
             String line = fileReader.readLine();
