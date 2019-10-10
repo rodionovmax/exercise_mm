@@ -7,12 +7,26 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.14.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.72" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apache-extras.beanshell:bsh:2.0b6" level="project" />
+    <orderEntry type="library" name="Maven: info.cukes:cucumber-java:1.2.5" level="project" />
+    <orderEntry type="library" name="Maven: info.cukes:cucumber-core:1.2.5" level="project" />
+    <orderEntry type="library" name="Maven: info.cukes:cucumber-html:0.2.3" level="project" />
+    <orderEntry type="library" name="Maven: info.cukes:cucumber-jvm-deps:1.0.5" level="project" />
+    <orderEntry type="library" name="Maven: info.cukes:gherkin:2.12.2" level="project" />
+    <orderEntry type="library" name="Maven: info.cukes:cucumber-testng:1.2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.testng:testng:6.9.10" level="project" />
+    <orderEntry type="library" name="Maven: com.beust:jcommander:1.48" level="project" />
+    <orderEntry type="library" name="Maven: org.beanshell:bsh:2.0b4" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-core:4.7.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:gherkin:5.1.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:tag-expressions:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-expressions:7.0.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:datatable:1.1.14" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:datatable-dependencies:1.1.14" level="project" />
+    <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
   </component>
 </module>

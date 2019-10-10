@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Tests {
+public class TestsWithoutCucumber {
 
     private ReaderHelper reader = new ReaderHelper();
 

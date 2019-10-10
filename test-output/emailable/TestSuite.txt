@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.339 s <<< FAILURE! - in TestSuite
+testTotalBalance(tests.TestsWithoutCucumber)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: Summary of all values ($997000.0) doesn't match with expected Total Balance. expected [1000000.0] but found [997000.0]
+	at tests.TestsWithoutCucumber.testTotalBalance(Tests.java:46)
+
